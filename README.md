@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preeti-pp
 - 👀 I’m interested in Exploring
-- 🌱 I’m currently learning Data Science, AI, ML, Blockchain
+- 🌱 I’m currently learning Software Development
 - 📫 How to reach me pp032544@gmail.com
 
 <!---
